@@ -2,7 +2,7 @@
 **`Я если и программист, то программист-самурай. Цель это конечная станция, а мой путь вечен, как вена жизнь`/// 2025.07.14**
 <p aling="left">
   <a href="https://x.com/GRAD_0530">
-    <img alt="X" title="My X profile" scr="![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)">
+    <img alt="X" title="My X profile" scr="[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://camo.githubusercontent.com/9d786d74c3c2e6b0249c2d4f8fe92a6e9245b13940e99ce35075459cb95bc582/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d58266c6f676f436f6c6f723d7768697465)">
   </a>
 </p>
 
