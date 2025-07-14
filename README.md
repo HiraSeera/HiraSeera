@@ -12,7 +12,10 @@
   </a>
 </p>
 ### ☎️ Связь
-
+<p aling="left">
+  <a href="https://x.com/GRAD_0530">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/HiraSeera?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  </a>
 
 ### 🧰 Мои языки
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
