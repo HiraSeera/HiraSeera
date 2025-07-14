@@ -16,7 +16,7 @@
 
 <p aling="left">
   <a href="https://x.com/GRAD_0530">
-    <img alt="X" title="My X profile" src="[https://icons8.com/icon/phOKFKYpe00C/x](https://images.seeklogo.com/logo-png/49/1/twitter-x-logo-png_seeklogo-492395.png)"/></a>
+    <img alt="X" title="My X profile" src="https://images.seeklogo.com/logo-png/49/1/twitter-x-logo-png_seeklogo-492395.png"/></a>
   </a>
 
 ### 🧰 Мои языки
