@@ -1,10 +1,6 @@
 # HiraSerra \ Grad
 **`Я если и программист, то программист-самурай. Цель это конечная станция, а мой путь вечен, как вена жизнь`/// 2025.07.14**
 
-<div id="header" align="center">
-  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHo5Mmczdnh6OXlkdzJsa2cycGZlMWxvMTU3cjZuMGNkamhtMGM3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wXXjNh5ilvdF55fj0z/giphy.gif]" width="100"/>
-</div>
-
 Это дневник моего пути. Я не великий мейстер программирования, но дорога моя возможно будет проходить через такой титул. Именно поэтому тут будет вся дорога, как исторический дневник.
 Я программист фокусирующийся на инди-разработке в Unity.
 
@@ -16,7 +12,9 @@
   </a>
 </p>
 
-### 🧰 Languages and Tools
+### 🧰 Мои языки
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" />
+<img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" />
 <br />
+
