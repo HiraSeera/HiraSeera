@@ -21,10 +21,12 @@
 
 ### 🧰 Мои языки
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" />
-<img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Light.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" />
+<img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Light.svg" />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiraSeera)](https://github.com/HiraSeera/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiraSeera&show_icons=true&theme=radical)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiraSeera&show_icons=true&theme=tokyonight)
