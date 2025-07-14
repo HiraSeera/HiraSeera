@@ -26,3 +26,4 @@
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" />
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HiraSeera=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
