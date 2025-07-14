@@ -5,7 +5,7 @@
 Я не великий мейстер программирования, но дорога моя возможно будет проходить через такой титул. Именно поэтому тут будет вся дорога, как исторический дневник.
 Я программист фокусирующийся на инди-разработке в Unity.
 
-<p aling="left">
+<p aling="top">
   <a href="https://github.com/HiraSeera?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/HiraSeera?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/HiraSeera?tab=repositories&sort=stargazers">
