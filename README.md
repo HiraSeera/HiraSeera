@@ -32,8 +32,3 @@
 
 ### 📋 Моя статистика
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiraSeera&show_icons=true&theme=tokyonight)
-
-
-## Other
-#### Music
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31z4l2vbn7zjcm7vfxjg525ujdc4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31z4l2vbn7zjcm7vfxjg525ujdc4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
